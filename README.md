@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Qishen Han
 
-You can use the [editor on GitHub](https://github.com/hnick2021/hnick2021.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Qishen Han, a fourth year undergraduate student in School of Electronic Engineering and Computer Science, Peking University. I'm a member of [Turing Class](https://cfcs.pku.edu.cn/english/research/turingprogram/introduction1/index.htm) in Peking University. I'm currently advised by Prof. Yuqing Kong. I'm also pleased to have worked with Prof. Lirong Xia in RPI during my undergraduate years. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interest lies in the intersection of theoretical computer and economy, especially the topic of information elicitation, peer prediction, and prediction markets. I'm also interested in social choice, mechanism design for social goods, and algorithmic game theory. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+I'm currently applying for PhD (Fall 2021). 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+contact: hnick2017 [at] pku [dot] edu [dot] cn
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hnick2021/hnick2021.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
