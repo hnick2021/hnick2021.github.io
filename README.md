@@ -12,3 +12,7 @@ I'm currently applying for PhD (Fall 2021).
 
 contact: hnick2017 [at] pku [dot] edu [dot] cn
 
+
+
+CV/Resume: [CV_Qishen.pdf](CV_Qishen.pdf)
+
