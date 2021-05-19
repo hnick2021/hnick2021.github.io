@@ -1,12 +1,8 @@
 # Qishen Han
 
-I'm Qishen Han, a fourth year undergraduate student in School of Electronic Engineering and Computer Science, Peking University. I'm a member of [Turing Class](https://cfcs.pku.edu.cn/english/research/turingprogram/introduction1/index.htm) in Peking University. I'm currently advised by Prof. Yuqing Kong. I'm also pleased to have worked with Prof. Lirong Xia in RPI during my undergraduate years. 
+I'm Qishen Han, a fourth year undergraduate student in School of Electronic Engineering and Computer Science, Peking University. I'm a member of [Turing Class](https://cfcs.pku.edu.cn/english/research/turingprogram/introduction1/index.htm) in Peking University. I'm currently advised by Dr. Yuqing Kong. I'm joining Dr. Lirong Xia's group in RPI in fall 2021. 
 
 My research interest lies in the intersection of theoretical computer and economy, especially the topic of information elicitation, peer prediction, and prediction markets. I'm also interested in social choice, mechanism design for social goods, and algorithmic game theory. 
-
-
-
-I'm currently applying for PhD (Fall 2021). 
 
 
 
