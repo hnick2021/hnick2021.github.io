@@ -4,8 +4,6 @@ I'm Qishen Han, a fourth year undergraduate student in School of Electronic Engi
 
 My research interest lies in the intersection of theoretical computer and economy, especially the topic of information elicitation, peer prediction, and prediction markets. I'm also interested in social choice, mechanism design for social goods, and algorithmic game theory. 
 
-
-
 contact: hnick2017 [at] pku [dot] edu [dot] cn
 
 
