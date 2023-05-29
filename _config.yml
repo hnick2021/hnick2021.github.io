@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 title: Qishen Han
 description: Ph.D. student of Rensselaer Polytechnic Institute (RPI)
