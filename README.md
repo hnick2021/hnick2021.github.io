@@ -1,10 +1,9 @@
 # Qishen Han
 
-I'm Qishen Han, a fourth year undergraduate student in School of Electronic Engineering and Computer Science, Peking University. I'm a member of [Turing Class](https://cfcs.pku.edu.cn/english/research/turingprogram/introduction1/index.htm) in Peking University. I'm currently advised by Dr. Yuqing Kong. I'm joining Dr. Lirong Xia's group in RPI in fall 2021. 
+Qishen Han is a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) since 2021, advised by Prof. Lirong Xia's. His research interests mainly include the interdisciplinary area between theoretical computer science and economics, including computational social choice, information elicitation and aggregation, and algorithmic game theory. Qishen received a B.S. degree in Intelligence Science and Technology with a double major in Economics from Peking University in 2021. 
 
-My research interest lies in the intersection of theoretical computer and economy, especially the topic of information elicitation, peer prediction, and prediction markets. I'm also interested in social choice, mechanism design for social goods, and algorithmic game theory. 
 
-contact: hnick2017 [at] pku [dot] edu [dot] cn
+contact: hnickc2017 [at] gmail [dot] com
 
 
 
