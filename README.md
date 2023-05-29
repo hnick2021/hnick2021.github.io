@@ -7,5 +7,5 @@ contact: hnickc2017 [at] gmail [dot] com
 
 
 
-CV/Resume: [CV_Qishen.pdf](CV_Qishen.pdf)
+CV/Resume: [Qishen_CV.pdf](Qishen_CV.pdf)
 
