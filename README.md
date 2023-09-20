@@ -1,6 +1,6 @@
 # Qishen Han
 
-<img src="Photo.jpg" alt="Photo" style="zoom: 33%;" />
+<img src="Photo.jpg" alt="Photo" style="zoom: 8%;" />
 
 Qishen Han is a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) since 2021, advised by Prof. Lirong Xia's.  Qishen received a B.S. degree in Intelligence Science and Technology with a double major in Economics from Peking University in 2021.
 
@@ -19,7 +19,7 @@ CV/Resume: [Qishen_CV.pdf](Qishen_CV.pdf)
 
 ## Publications
 
-**Qishen Han**, Biaoshuai Tao, and Lirong Xia. 2023. Average Envy-freeness for Indivisible Items. In Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’23).ACM, New York, NY, US. [[Arxiv]](https://arxiv.org/pdf/2301.12653.pdf)
+**Qishen Han**, Biaoshuai Tao, and Lirong Xia. 2023. Average Envy-freeness for Indivisible Items. In Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’23). Association for Computing Machinery, New York, NY, US. [[Arxiv]](https://arxiv.org/pdf/2301.12653.pdf)
 
 Ao Liu, **Qishen Han**, Lirong Xia, Nengkun Yu. 2023. Accelerating Voting by Quantum Computation. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence (UAI ’23), in Proceedings of Machine Learning Research 216:1274-1283 [[PDF]](https://proceedings.mlr.press/v216/liu23a/liu23a.pdf)
 
