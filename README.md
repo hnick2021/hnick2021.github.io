@@ -1,12 +1,12 @@
 # Qishen Han
 
-<img src="Photo.jpg" alt="Photo" style="zoom: 8%;" />
+<img src="Photo.jpg" alt="Photo" style="zoom: 15%;" />
 
-Qishen Han is a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) since 2021, advised by Prof. Lirong Xia's.  Qishen received a B.S. degree in Intelligence Science and Technology with a double major in Economics from Peking University in 2021.
+Qishen Han is a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) since 2021, advised by Prof. Lirong Xia's.  Qishen received a B.S. degree in Intelligence Science and Technology with a B.Ec. dual degree in Economics from Peking University in 2021.
 
 
 
-Research Interest: computational social choice, information elicitation and aggregation, fair division, algorithmic game theory, and LLM$\times$ EconCS. 
+Research Interest: computational social choice, information elicitation and aggregation, fair division, algorithmic game theory, intersection on large language model and social choice.
 
 
 contact: hnickc2017 [at] gmail [dot] com
