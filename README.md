@@ -2,7 +2,7 @@
 
 <img src="Photo.jpg" alt="Photo" style="zoom: 15%;" />
 
-Qishen Han is a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) since 2021, advised by Prof. Lirong Xia's.  Qishen received a B.S. degree in Intelligence Science and Technology with a B.Ec. dual degree in Economics from Peking University in 2021.
+Qishen Han is a Ph.D. student of Computer Science at Rutgers University since 2024, advised by Prof. Lirong Xia's.  Qishen received a B.S. degree in Intelligence Science and Technology with a B.Ec. dual degree in Economics from Peking University.
 
 
 
@@ -19,6 +19,10 @@ CV/Resume: [Qishen_CV.pdf](Qishen_CV.pdf)
 
 ## Publications
 
+**Qishen Han**, Amélie Marian, Lirong Xia. Determining Winners in Elections with Absent Votes. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI '24). Main Track. Pages 2816-2824. [[PDF]](https://www.ijcai.org/proceedings/2024/0312.pdf)
+
+Farhad Mohsin, **Qishen Han**, Sikai Ruan, Pin-Yu Chen, Francesca Rossi, and Lirong Xia. Computational Complexity of Verifying the Group No-show Paradox. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI '24). Main Track. Pages 2958-2966. [[PDF]](https://www.ijcai.org/proceedings/2024/0328.pdf)
+
 **Qishen Han**, Biaoshuai Tao, and Lirong Xia. 2023. Average Envy-freeness for Indivisible Items. In Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’23). Association for Computing Machinery, New York, NY, US. [[Arxiv]](https://arxiv.org/pdf/2301.12653.pdf)
 
 Ao Liu, **Qishen Han**, Lirong Xia, Nengkun Yu. 2023. Accelerating Voting by Quantum Computation. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence (UAI ’23), in Proceedings of Machine Learning Research 216:1274-1283 [[PDF]](https://proceedings.mlr.press/v216/liu23a/liu23a.pdf)
@@ -33,6 +37,6 @@ Sujoy Sikdar, Sikai Ruan, **Qishen Han**, Paween Pitimanaaree, Jeremy Blackthorn
 
 Inwon Kang, **Qishen Han**, and Lirong Xia. Learning to Explain Voting Rules. Accepted as an extended abstract in AAMAS-23 [[PDF]](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p2883.pdf)
 
-Farhad Mohsin, Qishen Han, Sikai Ruan, Pin-Yu Chen, Francesca Rossi, and Lirong Xia. Computational Complexity of Verifying the Group No-show Paradox. Accepted as an extended abstract in AAMAS-23 [[PDF]](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p2877.pdf)
+https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p2877.pdf)
 
 **Qishen Han**, Sikai Ruan, Yuqing Kong, Ao Liu, Farhad Mohsin, and Lirong Xia. Truthful Information Elicitation from Hybrid Crowds [[PDF]](https://arxiv.org/pdf/2107.10119.pdf)
