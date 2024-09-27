@@ -2,7 +2,7 @@
 
 <img src="Photo.jpg" alt="Photo" style="zoom: 15%;" />
 
-Qishen Han is a Ph.D. student of Computer Science at Rutgers University since 2024, advised by Prof. Lirong Xia's.  Qishen received a B.S. degree in Intelligence Science and Technology with a B.Ec. dual degree in Economics from Peking University.
+Qishen Han is a 4th-year Ph.D. student of Computer Science at Rutgers University, co-advised by Prof. Lirong Xia and Prof. David Pennock.  Qishen received a B.S. degree in Intelligence Science and Technology, as a member of Turing Honor Class, and a B.Ec. dual degree in Economics from Peking University.
 
 
 
@@ -32,6 +32,10 @@ Ao Liu, **Qishen Han**, Lirong Xia, Nengkun Yu. 2023. Accelerating Voting by Qua
 Sujoy Sikdar, Sikai Ruan, **Qishen Han**, Paween Pitimanaaree, Jeremy Blackthorne, Bulent Yener, and Lirong Xia. 2022. Anti-Malware Sandbox Games. In Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS '22). International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 1201–1209. [[PDF]](https://ifaamas.org/Proceedings/aamas2022/pdfs/p1201.pdf)
 
 ## Ongoing Works
+
+**Qishen Han**, Grant Schoenebeck, Biaoshuai Tao, and Lirong Xia. Strong Equilibria in Bayesian Games with Bounded Group Size
+
+**Qishen Han**, Biaoshuai Tao, Lirong Xia, and Houyu Zhou. Likelihood of the Existence of Average Justified Representation
 
 **Qishen Han**, Grant Schoenebeck, Biaoshuai Tao, and Lirong Xia. The art of Two Round Voting
 
