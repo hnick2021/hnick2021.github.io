@@ -2,7 +2,11 @@
 
 <img src="Photo.jpg" alt="Photo" style="zoom: 15%;" />
 
-Qishen Han is a 4th-year Ph.D. student of Computer Science at Rutgers University, co-advised by Prof. Lirong Xia and Prof. David Pennock.  Qishen received a B.S. degree in Intelligence Science and Technology, as a member of Turing Honor Class, and a B.Ec. dual degree in Economics from Peking University.
+Qishen Han is a 5th-year Ph.D. candidate of Computer Science at Rutgers University, co-advised by Prof. Lirong Xia and Prof. David Pennock.  Qishen received a B.S. degree in Intelligence Science and Technology, as a member of Turing Honor Class, and a B.Ec. dual degree in Economics from Peking University.
+
+
+
+**I am looking for postdoc positions!**
 
 
 
@@ -19,8 +23,15 @@ CV/Resume: [Qishen_CV.pdf](Qishen_CV.pdf)
 
 ## Publications
 
-**Qishen Han**, Grant Schoenebeck, Biaoshuai Tao, and Lirong Xia. Strong Equilibria in Bayesian Games with Bounded
-Group Size. Forthcoming in The ACM Web Conference 2025 (WWW '25). [[Arxiv]](https://arxiv.org/abs/2502.00260)
+**Qishen Han**, Grant Schoenebeck, Biaoshuai Tao, and Lirong Xia. Aggregating Information and Preferences under Different Coordination Ability. Forthcoming in the ACM Web Conference 2026 (WWW '26) [[Arxiv]](https://arxiv.org/abs/2505.10388)
+
+**Qishen Han**, Grant Schoenebeck, Biaoshuai Tao, and Lirong Xia. The Art of Two-Round Voting. Forthcoming in the ACM Web Conference 2026 (WWW '26). [[PDF]](papers/Tworound.pdf)
+
+**Qishen Han**, Biaoshuai Tao, Lirong Xia, Chengkai Zhang, and Houyu Zhou. Likelihood of the Existence of Average Justified Representation. Proceedings of the 2026 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA '26) [PDF](https://epubs.siam.org/doi/abs/10.1137/1.9781611978971.63)
+
+Ziqi Yu, Lirong Xia, **Qishen Han**, and Chengkai Zhang. How Likely Are Two Voting Rules Different? Proceedings of 41st Conference on Uncertainty in Artificial Intelligence (UAI '25). [[PDF]](https://proceedings.mlr.press/v286/yu25a.html)
+
+**Qishen Han**, Grant Schoenebeck, Biaoshuai Tao, and Lirong Xia. Strong Equilibria in Bayesian Games with Bounded Group Size. Proceedings of the ACM Web Conference 2025 (WWW '25). [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3696410.3714585)
 
 **Qishen Han**, Amélie Marian, Lirong Xia. Determining Winners in Elections with Absent Votes. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI '24). Main Track. Pages 2816-2824. [[PDF]](https://www.ijcai.org/proceedings/2024/0312.pdf)
 
@@ -36,11 +47,9 @@ Sujoy Sikdar, Sikai Ruan, **Qishen Han**, Paween Pitimanaaree, Jeremy Blackthorn
 
 ## Ongoing Works
 
-**Qishen Han**, Grant Schoenebeck, Biaoshuai Tao, and Lirong Xia. Aggregating Information and Preferences with Bounded-Size Deviations.
+**Qishen Han**, Artem Ivaniuk, Edith Elkind, Lirong Xia. Truth-Revealing Participatory Budgeting. [[Arxiv]](https://arxiv.org/abs/2601.17538)
 
-**Qishen Han**, Biaoshuai Tao, Lirong Xia, Chengkai Zhang, and Houyu Zhou. Likelihood of the Existence of Average Justified Representation.
-
-**Qishen Han**, Grant Schoenebeck, Biaoshuai Tao, and Lirong Xia. The Art of Two-Round Voting. [[PDF]](papers/Tworound.pdf)
+Edith Elkind, **Qishen Han**, Lirong Xia. Shortlisting: a Principled Approach. (Positioning Paper) [[Arxiv]](https://arxiv.org/abs/2601.21277)
 
 Inwon Kang, **Qishen Han**, and Lirong Xia. Learning to Explain Voting Rules. Accepted as an extended abstract in AAMAS-23. [[PDF]](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p2883.pdf)
 
